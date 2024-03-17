@@ -1,0 +1,8 @@
+iris_venv/*
+models/*
+data/processed/*
+data/raw/*
+!data/raw/Iris.csv
+data/external/*
+data/interim/*
+.env
