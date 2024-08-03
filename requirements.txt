@@ -14,7 +14,7 @@ matplotlib-inline==0.1.6
 nest-asyncio==1.6.0
 numpy==1.26.4
 packaging==24.0
-pandas==2.2.1
+pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.2.0
