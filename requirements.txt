@@ -21,7 +21,7 @@ platformdirs==4.2.0
 prompt-toolkit==3.0.43
 psutil==5.9.8
 ptyprocess==0.7.0
-pure-eval==0.2.2
+pure-eval==0.2.3
 Pygments==2.18.0
 pymongo==4.6.2
 python-dateutil==2.9.0.post0
