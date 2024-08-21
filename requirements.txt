@@ -29,7 +29,7 @@ python-dotenv==1.0.1
 pytz==2024.1
 pyzmq==25.1.2
 scikit-learn==1.4.1.post1
-scipy==1.12.0
+scipy==1.14.1
 six==1.16.0
 stack-data==0.6.3
 threadpoolctl==3.3.0
