@@ -13,7 +13,7 @@ jupyter_core==5.7.2
 matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
 numpy==2.1.1
-packaging==24.0
+packaging==24.1
 pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
