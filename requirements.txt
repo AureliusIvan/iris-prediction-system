@@ -15,7 +15,7 @@ nest-asyncio==1.6.0
 numpy==2.1.1
 packaging==24.0
 pandas==2.2.2
-parso==0.8.4
+parso==0.8.7
 pexpect==4.9.0
 platformdirs==4.2.2
 prompt-toolkit==3.0.43
